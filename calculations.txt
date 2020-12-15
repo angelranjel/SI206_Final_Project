@@ -1,0 +1,4 @@
+Average words of songs in playlist: 340
+Average popularity for songs in playlist: 76.04
+Average time for songs in playlist: 197.293 seconds!
+Average Popularity of the most popular songs above 70: 82.675
